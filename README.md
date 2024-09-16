@@ -1,5 +1,5 @@
 # Kolmogorov-Arnold Networks (KAN)
-[![arXiv](https://img.shields.io/badge/arXiv-2112.05682v2-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2404.19756)
+[![arXiv]([https://img.shields.io/badge/arXiv-2112.05682v2-b31b1b.svg?style=flat-square](https://img.shields.io/badge/2404.19756-message?style=flat&label=arXiv&color=bb1111&link=https%3A%2F%2Farxiv.org%2Fabs%2F2404.19756))](https://arxiv.org/abs/2404.19756)
 ### A 2024 Alternative to Multi-Layer Perceptrons with Learnable Activation Functions
 
 ![KAN Visualization](assets/kan.gif)
